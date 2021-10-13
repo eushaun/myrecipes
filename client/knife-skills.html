@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+</style>
+<body>
+
+<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()"
+  class="w3-bar-item w3-button">Close Menu</a>
+  <a href="#Basics" onclick="w3_close()" class="w3-bar-item w3-button">Basics Page</a>
+  <a href="#Home" onclick="w3_close()" class="w3-bar-item w3-button">Home</a>
+</nav>
+
+<div class="w3-top">
+  <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+    <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
+    <div class="w3-right w3-padding-16">Account</div>
+    <div class="w3-center w3-padding-16">My Recipes</div>
+  </div>
+</div>
+  
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <h1 class="w3-center w3-padding-16">Knife Skills</h1>
+  <h5 class="w3-center w3-padding-16"> Having good basic knife skills will significantly reduce your prep times and learning how to do it the right way will reduce your risk of getting hurt.
+     This page will talk you through some essentials to get started. It will also cover some tips to elevate your cooking.</h5>
+
+  <div class="w3-row-padding w3-padding-16 w3-center" id="ingredient-storage">
+
+
+
+    <div class="w3-quarter">
+        <img src="https://cdn.shopify.com/s/files/1/0445/1365/6985/articles/types-of-kitchen-knives_1728x.jpg?v=1617738802" alt="Knives" style="width:100%" width="200" height="200">
+        <h3>Types of Knives</h3>
+        <p>While the selection of knives is quite diverse and often confusing, for most everyday cooking purposes, you will only need a chef's knife,
+          a paring knife and a bread knife. A chef's knife is the most versatile of the lot and if you had to pick only one, it should be this one.</p>
+    </div>
+
+    <div class="w3-quarter">
+      <img src="https://www.nomoretogo.com/wp-content/uploads/2013/06/chop-dice-mince.jpg" alt="Chops" style="width:100%" width="200" height="200">
+      <h3>Chop-Dice-Mince</h3>
+      <p>Sometimes the words chop and dice are used interchangeably, but technically the word dice is used for smaller pieces and the word chop is used for larger pieces.
+        The word mince means a very small dice. As a general rule, first slice the vegetable or allium length wise, then make a cut through the vertical center,
+        then turn it 90 degrees and begin cutting horizontally.
+      </p>
+    </div>
+
+    <div class="w3-quarter">
+      <img src="https://allaboutkitchenknives.com/staging/3478/wp-content/uploads/2017/08/shutterstock_631441214.jpg" alt="Julienne" style="width:100%" width="200" height="200">
+      <h3>The Julienne Cut</h3>
+      <p>In the julienne (or French) cut, the ingredient is cut into long, uniform strips like matchsticks. Julienne cut is often used for salad ingredients and green veggies, like cucumbers, bell peppers, and zucchini.
+        After cutting the vegetable into an appropriate size, merely hold the vegetable saefly, and cut it in short sharp strokes along it's length. 
+      </p>
+    </div>
+
+    <div class="w3-quarter">
+      <img src="https://res.cloudinary.com/hksqkdlah/image/upload/c_fill,dpr_2.0,e_sharpen:50,f_auto,fl_lossy,g_faces,q_35,w_995/28985_stp-makeitsharp-20" alt="Sharpen" style="width:100%" width="200" height="200">  
+      <h3>Knife Sharpening</h3>
+      <p>A blunt knife can significantly increase the risk of getting hurt and increase prep times as well.
+        There are many complicated methods to sharpen a knife, but for a beginner, the best method is to use a handheled knife sharpener which is easily available. </p>
+
+    </div>
+
+  </div>
+
+
+</div>
+
+<script>
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+}
+
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+</body>
+</html>

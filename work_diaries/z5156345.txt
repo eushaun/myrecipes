@@ -1,0 +1,32 @@
+Week 1
+- Formed team
+- Joined Jira board and GitHub repo
+
+Week 2
+- Finalized roles and tech stack
+- Brainstormed on novel features
+
+Week 3
+- Wrote user stories for project proposal
+- Add user stories to Jira
+
+Week 4
+- Did some research on recommender system
+- Added more stories to Jira
+
+Week 5
+- Changed approach on recommender system
+
+Week 6
+- Continue working on recommender system
+
+Week 7
+- Finished recommender system
+
+Week 8
+- Worked on feed
+
+Week 9
+- Finalized feed
+- Finalized report
+- Test code on lubuntu vm

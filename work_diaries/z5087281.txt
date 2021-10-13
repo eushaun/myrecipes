@@ -1,0 +1,50 @@
+Week 1
+- Formed team
+- Created Jira Account and invited team members
+- Created repository on GitHub Classroom
+- Created the project proposal template
+
+Week 2
+- We finalized our roles and the tech stack
+- Worked on first draft of project proposal
+- Started designing the software architecture diagram
+
+Week 3
+- Finalized the software architecture diagram
+- Wrote user stories for User, Contributor and Explorer
+- Created AWS RDS database instance
+- Worked on ER diagram with Nehal
+- Added more user stories to Jira
+- Created first sprint
+- Wrote a description for software architecture diagram
+- Submitted project proposal
+
+Week 4
+- Mentioned to the tutor that the register, login and log out functionality was working on the back end, the front end still needed to be designed
+- We were not able to complete all the issues in the first sprint
+- Created the database
+- Set up the back end code
+- Wrote the basic authentication APIs
+
+Week 5
+- Wrote APIs to handle user data
+- Worked on the create recipe API
+- Showed register, login and logout functionality in Progressive Demo A
+- Had retrospective meeting with team members
+
+Week 6
+- Continued to work on the APIs
+- Finished most of the recipe based APIs
+- Created the search for recipe API
+
+Week 7
+- Submitted Retrospective A document
+- Refactored back end code based on separation of concerns principle
+
+Week 8
+- Progressive Demo B
+- Work on APIs
+
+Week 9
+- Handle image management
+- Fix front-end and back-end issues

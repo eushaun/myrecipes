@@ -1,0 +1,42 @@
+Week 1
+- Decided Topics
+- Formed team on WebCMS
+- JIRA, Github
+
+Week 2
+- Project Proposal - Scope, Existing systems
+- Tech Stack
+- Roles
+- Brainstorming Novel Features
+Week 3
+- Project Proposal - User Stories
+- Project Planning - ER diagram, backend table design
+Week 4
+- Front End coding - Registration, Login, Log Out, Basics of user handling
+Week 5
+- Front End coding - Nav Bar, Menu Items, Avatar, Edit Profile
+Week 6
+- Front End coding - 
+	Search Bar
+	display recipes in cards
+	edit, delete buttons on recipe cards
+	edit recipes - basics
+week 7
+- Front End coding
+	Finished Search
+	create Recipe
+	subscribe
+	like
+	basics of show recipe
+Week 8
+- Front End coding
+	Design
+	Error codes
+Week 9
+- Front end coding
+	Finishing touches
+	Debugging errors
+	Fixed errors
+	Novelty
+
+	
